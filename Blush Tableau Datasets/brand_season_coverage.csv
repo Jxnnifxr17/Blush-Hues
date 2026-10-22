@@ -1,0 +1,925 @@
+brand,season,shades,share_of_brand,family
+Anastasia Beverly Hills,light spring,4,0.36363636363636365,spring
+Anastasia Beverly Hills,bright/clear spring,0,0.0,spring
+Anastasia Beverly Hills,true/warm spring,0,0.0,spring
+Anastasia Beverly Hills,light summer,2,0.18181818181818182,summer
+Anastasia Beverly Hills,soft summer,1,0.09090909090909091,summer
+Anastasia Beverly Hills,true/cool summer,0,0.0,summer
+Anastasia Beverly Hills,soft autumn,2,0.18181818181818182,autumn
+Anastasia Beverly Hills,true/warm autumn,1,0.09090909090909091,autumn
+Anastasia Beverly Hills,dark/deep autumn,0,0.0,autumn
+Anastasia Beverly Hills,true/cool winter,1,0.09090909090909091,winter
+Anastasia Beverly Hills,bright/clear winter,0,0.0,winter
+Anastasia Beverly Hills,dark/deep winter,0,0.0,winter
+BLK/OPL,light spring,0,0.0,spring
+BLK/OPL,bright/clear spring,0,0.0,spring
+BLK/OPL,true/warm spring,1,0.3333333333333333,spring
+BLK/OPL,light summer,0,0.0,summer
+BLK/OPL,soft summer,0,0.0,summer
+BLK/OPL,true/cool summer,0,0.0,summer
+BLK/OPL,soft autumn,0,0.0,autumn
+BLK/OPL,true/warm autumn,0,0.0,autumn
+BLK/OPL,dark/deep autumn,0,0.0,autumn
+BLK/OPL,true/cool winter,1,0.3333333333333333,winter
+BLK/OPL,bright/clear winter,0,0.0,winter
+BLK/OPL,dark/deep winter,1,0.3333333333333333,winter
+BOBBI BROWN,light spring,7,0.30434782608695654,spring
+BOBBI BROWN,bright/clear spring,2,0.08695652173913043,spring
+BOBBI BROWN,true/warm spring,2,0.08695652173913043,spring
+BOBBI BROWN,light summer,5,0.21739130434782608,summer
+BOBBI BROWN,soft summer,1,0.043478260869565216,summer
+BOBBI BROWN,true/cool summer,0,0.0,summer
+BOBBI BROWN,soft autumn,0,0.0,autumn
+BOBBI BROWN,true/warm autumn,4,0.17391304347826086,autumn
+BOBBI BROWN,dark/deep autumn,1,0.043478260869565216,autumn
+BOBBI BROWN,true/cool winter,1,0.043478260869565216,winter
+BOBBI BROWN,bright/clear winter,0,0.0,winter
+BOBBI BROWN,dark/deep winter,0,0.0,winter
+Benefit Cosmetics,light spring,10,0.4,spring
+Benefit Cosmetics,bright/clear spring,6,0.24,spring
+Benefit Cosmetics,true/warm spring,0,0.0,spring
+Benefit Cosmetics,light summer,0,0.0,summer
+Benefit Cosmetics,soft summer,0,0.0,summer
+Benefit Cosmetics,true/cool summer,0,0.0,summer
+Benefit Cosmetics,soft autumn,0,0.0,autumn
+Benefit Cosmetics,true/warm autumn,4,0.16,autumn
+Benefit Cosmetics,dark/deep autumn,1,0.04,autumn
+Benefit Cosmetics,true/cool winter,3,0.12,winter
+Benefit Cosmetics,bright/clear winter,1,0.04,winter
+Benefit Cosmetics,dark/deep winter,0,0.0,winter
+Buxom,light spring,3,0.6,spring
+Buxom,bright/clear spring,0,0.0,spring
+Buxom,true/warm spring,0,0.0,spring
+Buxom,light summer,0,0.0,summer
+Buxom,soft summer,0,0.0,summer
+Buxom,true/cool summer,1,0.2,summer
+Buxom,soft autumn,0,0.0,autumn
+Buxom,true/warm autumn,1,0.2,autumn
+Buxom,dark/deep autumn,0,0.0,autumn
+Buxom,true/cool winter,0,0.0,winter
+Buxom,bright/clear winter,0,0.0,winter
+Buxom,dark/deep winter,0,0.0,winter
+CHANEL,light spring,12,0.4444444444444444,spring
+CHANEL,bright/clear spring,6,0.2222222222222222,spring
+CHANEL,true/warm spring,4,0.14814814814814814,spring
+CHANEL,light summer,1,0.037037037037037035,summer
+CHANEL,soft summer,0,0.0,summer
+CHANEL,true/cool summer,0,0.0,summer
+CHANEL,soft autumn,0,0.0,autumn
+CHANEL,true/warm autumn,1,0.037037037037037035,autumn
+CHANEL,dark/deep autumn,2,0.07407407407407407,autumn
+CHANEL,true/cool winter,0,0.0,winter
+CHANEL,bright/clear winter,0,0.0,winter
+CHANEL,dark/deep winter,1,0.037037037037037035,winter
+Charlotte Tilbury,light spring,13,0.41935483870967744,spring
+Charlotte Tilbury,bright/clear spring,2,0.06451612903225806,spring
+Charlotte Tilbury,true/warm spring,7,0.22580645161290322,spring
+Charlotte Tilbury,light summer,4,0.12903225806451613,summer
+Charlotte Tilbury,soft summer,0,0.0,summer
+Charlotte Tilbury,true/cool summer,0,0.0,summer
+Charlotte Tilbury,soft autumn,0,0.0,autumn
+Charlotte Tilbury,true/warm autumn,2,0.06451612903225806,autumn
+Charlotte Tilbury,dark/deep autumn,1,0.03225806451612903,autumn
+Charlotte Tilbury,true/cool winter,0,0.0,winter
+Charlotte Tilbury,bright/clear winter,2,0.06451612903225806,winter
+Charlotte Tilbury,dark/deep winter,0,0.0,winter
+Clinique,light spring,10,0.4,spring
+Clinique,bright/clear spring,0,0.0,spring
+Clinique,true/warm spring,4,0.16,spring
+Clinique,light summer,2,0.08,summer
+Clinique,soft summer,0,0.0,summer
+Clinique,true/cool summer,0,0.0,summer
+Clinique,soft autumn,2,0.08,autumn
+Clinique,true/warm autumn,5,0.2,autumn
+Clinique,dark/deep autumn,1,0.04,autumn
+Clinique,true/cool winter,0,0.0,winter
+Clinique,bright/clear winter,1,0.04,winter
+Clinique,dark/deep winter,0,0.0,winter
+ColourPop,light spring,13,0.5652173913043478,spring
+ColourPop,bright/clear spring,2,0.08695652173913043,spring
+ColourPop,true/warm spring,1,0.043478260869565216,spring
+ColourPop,light summer,4,0.17391304347826086,summer
+ColourPop,soft summer,0,0.0,summer
+ColourPop,true/cool summer,0,0.0,summer
+ColourPop,soft autumn,0,0.0,autumn
+ColourPop,true/warm autumn,2,0.08695652173913043,autumn
+ColourPop,dark/deep autumn,0,0.0,autumn
+ColourPop,true/cool winter,0,0.0,winter
+ColourPop,bright/clear winter,1,0.043478260869565216,winter
+ColourPop,dark/deep winter,0,0.0,winter
+CoverGirl,light spring,4,0.4,spring
+CoverGirl,bright/clear spring,3,0.3,spring
+CoverGirl,true/warm spring,0,0.0,spring
+CoverGirl,light summer,1,0.1,summer
+CoverGirl,soft summer,0,0.0,summer
+CoverGirl,true/cool summer,1,0.1,summer
+CoverGirl,soft autumn,0,0.0,autumn
+CoverGirl,true/warm autumn,1,0.1,autumn
+CoverGirl,dark/deep autumn,0,0.0,autumn
+CoverGirl,true/cool winter,0,0.0,winter
+CoverGirl,bright/clear winter,0,0.0,winter
+CoverGirl,dark/deep winter,0,0.0,winter
+DIBS Beauty,light spring,5,0.21739130434782608,spring
+DIBS Beauty,bright/clear spring,2,0.08695652173913043,spring
+DIBS Beauty,true/warm spring,3,0.13043478260869565,spring
+DIBS Beauty,light summer,2,0.08695652173913043,summer
+DIBS Beauty,soft summer,0,0.0,summer
+DIBS Beauty,true/cool summer,1,0.043478260869565216,summer
+DIBS Beauty,soft autumn,1,0.043478260869565216,autumn
+DIBS Beauty,true/warm autumn,6,0.2608695652173913,autumn
+DIBS Beauty,dark/deep autumn,1,0.043478260869565216,autumn
+DIBS Beauty,true/cool winter,1,0.043478260869565216,winter
+DIBS Beauty,bright/clear winter,1,0.043478260869565216,winter
+DIBS Beauty,dark/deep winter,0,0.0,winter
+Dior,light spring,7,0.5,spring
+Dior,bright/clear spring,1,0.07142857142857142,spring
+Dior,true/warm spring,0,0.0,spring
+Dior,light summer,4,0.2857142857142857,summer
+Dior,soft summer,0,0.0,summer
+Dior,true/cool summer,2,0.14285714285714285,summer
+Dior,soft autumn,0,0.0,autumn
+Dior,true/warm autumn,0,0.0,autumn
+Dior,dark/deep autumn,0,0.0,autumn
+Dior,true/cool winter,0,0.0,winter
+Dior,bright/clear winter,0,0.0,winter
+Dior,dark/deep winter,0,0.0,winter
+Ere Perez,light spring,4,0.4444444444444444,spring
+Ere Perez,bright/clear spring,2,0.2222222222222222,spring
+Ere Perez,true/warm spring,1,0.1111111111111111,spring
+Ere Perez,light summer,0,0.0,summer
+Ere Perez,soft summer,0,0.0,summer
+Ere Perez,true/cool summer,0,0.0,summer
+Ere Perez,soft autumn,1,0.1111111111111111,autumn
+Ere Perez,true/warm autumn,0,0.0,autumn
+Ere Perez,dark/deep autumn,0,0.0,autumn
+Ere Perez,true/cool winter,0,0.0,winter
+Ere Perez,bright/clear winter,1,0.1111111111111111,winter
+Ere Perez,dark/deep winter,0,0.0,winter
+Essence,light spring,13,0.5652173913043478,spring
+Essence,bright/clear spring,3,0.13043478260869565,spring
+Essence,true/warm spring,1,0.043478260869565216,spring
+Essence,light summer,2,0.08695652173913043,summer
+Essence,soft summer,0,0.0,summer
+Essence,true/cool summer,0,0.0,summer
+Essence,soft autumn,0,0.0,autumn
+Essence,true/warm autumn,2,0.08695652173913043,autumn
+Essence,dark/deep autumn,1,0.043478260869565216,autumn
+Essence,true/cool winter,0,0.0,winter
+Essence,bright/clear winter,1,0.043478260869565216,winter
+Essence,dark/deep winter,0,0.0,winter
+Estée Lauder,light spring,1,0.5,spring
+Estée Lauder,bright/clear spring,0,0.0,spring
+Estée Lauder,true/warm spring,0,0.0,spring
+Estée Lauder,light summer,0,0.0,summer
+Estée Lauder,soft summer,0,0.0,summer
+Estée Lauder,true/cool summer,0,0.0,summer
+Estée Lauder,soft autumn,0,0.0,autumn
+Estée Lauder,true/warm autumn,1,0.5,autumn
+Estée Lauder,dark/deep autumn,0,0.0,autumn
+Estée Lauder,true/cool winter,0,0.0,winter
+Estée Lauder,bright/clear winter,0,0.0,winter
+Estée Lauder,dark/deep winter,0,0.0,winter
+FENTY BEAUTY by Rihanna,light spring,7,0.3888888888888889,spring
+FENTY BEAUTY by Rihanna,bright/clear spring,2,0.1111111111111111,spring
+FENTY BEAUTY by Rihanna,true/warm spring,1,0.05555555555555555,spring
+FENTY BEAUTY by Rihanna,light summer,1,0.05555555555555555,summer
+FENTY BEAUTY by Rihanna,soft summer,2,0.1111111111111111,summer
+FENTY BEAUTY by Rihanna,true/cool summer,0,0.0,summer
+FENTY BEAUTY by Rihanna,soft autumn,1,0.05555555555555555,autumn
+FENTY BEAUTY by Rihanna,true/warm autumn,2,0.1111111111111111,autumn
+FENTY BEAUTY by Rihanna,dark/deep autumn,0,0.0,autumn
+FENTY BEAUTY by Rihanna,true/cool winter,0,0.0,winter
+FENTY BEAUTY by Rihanna,bright/clear winter,0,0.0,winter
+FENTY BEAUTY by Rihanna,dark/deep winter,2,0.1111111111111111,winter
+FLOWER Beauty,light spring,1,0.14285714285714285,spring
+FLOWER Beauty,bright/clear spring,2,0.2857142857142857,spring
+FLOWER Beauty,true/warm spring,2,0.2857142857142857,spring
+FLOWER Beauty,light summer,0,0.0,summer
+FLOWER Beauty,soft summer,0,0.0,summer
+FLOWER Beauty,true/cool summer,0,0.0,summer
+FLOWER Beauty,soft autumn,0,0.0,autumn
+FLOWER Beauty,true/warm autumn,0,0.0,autumn
+FLOWER Beauty,dark/deep autumn,0,0.0,autumn
+FLOWER Beauty,true/cool winter,2,0.2857142857142857,winter
+FLOWER Beauty,bright/clear winter,0,0.0,winter
+FLOWER Beauty,dark/deep winter,0,0.0,winter
+HALF MAGIC,light spring,2,0.4,spring
+HALF MAGIC,bright/clear spring,0,0.0,spring
+HALF MAGIC,true/warm spring,0,0.0,spring
+HALF MAGIC,light summer,0,0.0,summer
+HALF MAGIC,soft summer,0,0.0,summer
+HALF MAGIC,true/cool summer,0,0.0,summer
+HALF MAGIC,soft autumn,0,0.0,autumn
+HALF MAGIC,true/warm autumn,1,0.2,autumn
+HALF MAGIC,dark/deep autumn,0,0.0,autumn
+HALF MAGIC,true/cool winter,0,0.0,winter
+HALF MAGIC,bright/clear winter,1,0.2,winter
+HALF MAGIC,dark/deep winter,1,0.2,winter
+HOURGLASS,light spring,4,0.2857142857142857,spring
+HOURGLASS,bright/clear spring,2,0.14285714285714285,spring
+HOURGLASS,true/warm spring,3,0.21428571428571427,spring
+HOURGLASS,light summer,4,0.2857142857142857,summer
+HOURGLASS,soft summer,0,0.0,summer
+HOURGLASS,true/cool summer,0,0.0,summer
+HOURGLASS,soft autumn,0,0.0,autumn
+HOURGLASS,true/warm autumn,1,0.07142857142857142,autumn
+HOURGLASS,dark/deep autumn,0,0.0,autumn
+HOURGLASS,true/cool winter,0,0.0,winter
+HOURGLASS,bright/clear winter,0,0.0,winter
+HOURGLASS,dark/deep winter,0,0.0,winter
+ICONIC LONDON,light spring,12,0.8571428571428571,spring
+ICONIC LONDON,bright/clear spring,0,0.0,spring
+ICONIC LONDON,true/warm spring,0,0.0,spring
+ICONIC LONDON,light summer,0,0.0,summer
+ICONIC LONDON,soft summer,0,0.0,summer
+ICONIC LONDON,true/cool summer,0,0.0,summer
+ICONIC LONDON,soft autumn,0,0.0,autumn
+ICONIC LONDON,true/warm autumn,1,0.07142857142857142,autumn
+ICONIC LONDON,dark/deep autumn,0,0.0,autumn
+ICONIC LONDON,true/cool winter,1,0.07142857142857142,winter
+ICONIC LONDON,bright/clear winter,0,0.0,winter
+ICONIC LONDON,dark/deep winter,0,0.0,winter
+ILIA,light spring,8,0.4444444444444444,spring
+ILIA,bright/clear spring,3,0.16666666666666666,spring
+ILIA,true/warm spring,0,0.0,spring
+ILIA,light summer,0,0.0,summer
+ILIA,soft summer,0,0.0,summer
+ILIA,true/cool summer,0,0.0,summer
+ILIA,soft autumn,0,0.0,autumn
+ILIA,true/warm autumn,5,0.2777777777777778,autumn
+ILIA,dark/deep autumn,1,0.05555555555555555,autumn
+ILIA,true/cool winter,1,0.05555555555555555,winter
+ILIA,bright/clear winter,0,0.0,winter
+ILIA,dark/deep winter,0,0.0,winter
+IT Cosmetics,light spring,5,0.5555555555555556,spring
+IT Cosmetics,bright/clear spring,1,0.1111111111111111,spring
+IT Cosmetics,true/warm spring,0,0.0,spring
+IT Cosmetics,light summer,0,0.0,summer
+IT Cosmetics,soft summer,0,0.0,summer
+IT Cosmetics,true/cool summer,0,0.0,summer
+IT Cosmetics,soft autumn,0,0.0,autumn
+IT Cosmetics,true/warm autumn,2,0.2222222222222222,autumn
+IT Cosmetics,dark/deep autumn,1,0.1111111111111111,autumn
+IT Cosmetics,true/cool winter,0,0.0,winter
+IT Cosmetics,bright/clear winter,0,0.0,winter
+IT Cosmetics,dark/deep winter,0,0.0,winter
+J.Cat Beauty,light spring,0,0.0,spring
+J.Cat Beauty,bright/clear spring,11,0.6470588235294118,spring
+J.Cat Beauty,true/warm spring,2,0.11764705882352941,spring
+J.Cat Beauty,light summer,0,0.0,summer
+J.Cat Beauty,soft summer,0,0.0,summer
+J.Cat Beauty,true/cool summer,1,0.058823529411764705,summer
+J.Cat Beauty,soft autumn,0,0.0,autumn
+J.Cat Beauty,true/warm autumn,2,0.11764705882352941,autumn
+J.Cat Beauty,dark/deep autumn,1,0.058823529411764705,autumn
+J.Cat Beauty,true/cool winter,0,0.0,winter
+J.Cat Beauty,bright/clear winter,0,0.0,winter
+J.Cat Beauty,dark/deep winter,0,0.0,winter
+Juvia's Place,light spring,6,0.24,spring
+Juvia's Place,bright/clear spring,5,0.2,spring
+Juvia's Place,true/warm spring,6,0.24,spring
+Juvia's Place,light summer,4,0.16,summer
+Juvia's Place,soft summer,0,0.0,summer
+Juvia's Place,true/cool summer,0,0.0,summer
+Juvia's Place,soft autumn,0,0.0,autumn
+Juvia's Place,true/warm autumn,1,0.04,autumn
+Juvia's Place,dark/deep autumn,0,0.0,autumn
+Juvia's Place,true/cool winter,0,0.0,winter
+Juvia's Place,bright/clear winter,2,0.08,winter
+Juvia's Place,dark/deep winter,1,0.04,winter
+KIKO Milano,light spring,13,0.7647058823529411,spring
+KIKO Milano,bright/clear spring,0,0.0,spring
+KIKO Milano,true/warm spring,1,0.058823529411764705,spring
+KIKO Milano,light summer,1,0.058823529411764705,summer
+KIKO Milano,soft summer,1,0.058823529411764705,summer
+KIKO Milano,true/cool summer,0,0.0,summer
+KIKO Milano,soft autumn,0,0.0,autumn
+KIKO Milano,true/warm autumn,1,0.058823529411764705,autumn
+KIKO Milano,dark/deep autumn,0,0.0,autumn
+KIKO Milano,true/cool winter,0,0.0,winter
+KIKO Milano,bright/clear winter,0,0.0,winter
+KIKO Milano,dark/deep winter,0,0.0,winter
+KVD Beauty,light spring,2,0.2222222222222222,spring
+KVD Beauty,bright/clear spring,1,0.1111111111111111,spring
+KVD Beauty,true/warm spring,2,0.2222222222222222,spring
+KVD Beauty,light summer,0,0.0,summer
+KVD Beauty,soft summer,0,0.0,summer
+KVD Beauty,true/cool summer,0,0.0,summer
+KVD Beauty,soft autumn,0,0.0,autumn
+KVD Beauty,true/warm autumn,2,0.2222222222222222,autumn
+KVD Beauty,dark/deep autumn,1,0.1111111111111111,autumn
+KVD Beauty,true/cool winter,1,0.1111111111111111,winter
+KVD Beauty,bright/clear winter,0,0.0,winter
+KVD Beauty,dark/deep winter,0,0.0,winter
+KYLIE COSMETICS,light spring,6,0.3157894736842105,spring
+KYLIE COSMETICS,bright/clear spring,3,0.15789473684210525,spring
+KYLIE COSMETICS,true/warm spring,3,0.15789473684210525,spring
+KYLIE COSMETICS,light summer,3,0.15789473684210525,summer
+KYLIE COSMETICS,soft summer,0,0.0,summer
+KYLIE COSMETICS,true/cool summer,0,0.0,summer
+KYLIE COSMETICS,soft autumn,0,0.0,autumn
+KYLIE COSMETICS,true/warm autumn,2,0.10526315789473684,autumn
+KYLIE COSMETICS,dark/deep autumn,0,0.0,autumn
+KYLIE COSMETICS,true/cool winter,1,0.05263157894736842,winter
+KYLIE COSMETICS,bright/clear winter,0,0.0,winter
+KYLIE COSMETICS,dark/deep winter,1,0.05263157894736842,winter
+Kaja,light spring,0,0.0,spring
+Kaja,bright/clear spring,0,0.0,spring
+Kaja,true/warm spring,0,0.0,spring
+Kaja,light summer,0,0.0,summer
+Kaja,soft summer,1,0.3333333333333333,summer
+Kaja,true/cool summer,0,0.0,summer
+Kaja,soft autumn,0,0.0,autumn
+Kaja,true/warm autumn,1,0.3333333333333333,autumn
+Kaja,dark/deep autumn,0,0.0,autumn
+Kaja,true/cool winter,1,0.3333333333333333,winter
+Kaja,bright/clear winter,0,0.0,winter
+Kaja,dark/deep winter,0,0.0,winter
+L'Oréal,light spring,4,0.4,spring
+L'Oréal,bright/clear spring,3,0.3,spring
+L'Oréal,true/warm spring,1,0.1,spring
+L'Oréal,light summer,0,0.0,summer
+L'Oréal,soft summer,1,0.1,summer
+L'Oréal,true/cool summer,0,0.0,summer
+L'Oréal,soft autumn,0,0.0,autumn
+L'Oréal,true/warm autumn,1,0.1,autumn
+L'Oréal,dark/deep autumn,0,0.0,autumn
+L'Oréal,true/cool winter,0,0.0,winter
+L'Oréal,bright/clear winter,0,0.0,winter
+L'Oréal,dark/deep winter,0,0.0,winter
+L.A. Girl,light spring,4,0.2222222222222222,spring
+L.A. Girl,bright/clear spring,2,0.1111111111111111,spring
+L.A. Girl,true/warm spring,3,0.16666666666666666,spring
+L.A. Girl,light summer,2,0.1111111111111111,summer
+L.A. Girl,soft summer,1,0.05555555555555555,summer
+L.A. Girl,true/cool summer,0,0.0,summer
+L.A. Girl,soft autumn,0,0.0,autumn
+L.A. Girl,true/warm autumn,3,0.16666666666666666,autumn
+L.A. Girl,dark/deep autumn,0,0.0,autumn
+L.A. Girl,true/cool winter,1,0.05555555555555555,winter
+L.A. Girl,bright/clear winter,1,0.05555555555555555,winter
+L.A. Girl,dark/deep winter,1,0.05555555555555555,winter
+LAURA GELLER,light spring,3,0.6,spring
+LAURA GELLER,bright/clear spring,0,0.0,spring
+LAURA GELLER,true/warm spring,0,0.0,spring
+LAURA GELLER,light summer,0,0.0,summer
+LAURA GELLER,soft summer,0,0.0,summer
+LAURA GELLER,true/cool summer,0,0.0,summer
+LAURA GELLER,soft autumn,0,0.0,autumn
+LAURA GELLER,true/warm autumn,2,0.4,autumn
+LAURA GELLER,dark/deep autumn,0,0.0,autumn
+LAURA GELLER,true/cool winter,0,0.0,winter
+LAURA GELLER,bright/clear winter,0,0.0,winter
+LAURA GELLER,dark/deep winter,0,0.0,winter
+LORAC,light spring,1,0.1111111111111111,spring
+LORAC,bright/clear spring,0,0.0,spring
+LORAC,true/warm spring,1,0.1111111111111111,spring
+LORAC,light summer,0,0.0,summer
+LORAC,soft summer,1,0.1111111111111111,summer
+LORAC,true/cool summer,0,0.0,summer
+LORAC,soft autumn,0,0.0,autumn
+LORAC,true/warm autumn,5,0.5555555555555556,autumn
+LORAC,dark/deep autumn,1,0.1111111111111111,autumn
+LORAC,true/cool winter,0,0.0,winter
+LORAC,bright/clear winter,0,0.0,winter
+LORAC,dark/deep winter,0,0.0,winter
+Lancôme,light spring,6,0.3333333333333333,spring
+Lancôme,bright/clear spring,3,0.16666666666666666,spring
+Lancôme,true/warm spring,3,0.16666666666666666,spring
+Lancôme,light summer,2,0.1111111111111111,summer
+Lancôme,soft summer,1,0.05555555555555555,summer
+Lancôme,true/cool summer,0,0.0,summer
+Lancôme,soft autumn,0,0.0,autumn
+Lancôme,true/warm autumn,1,0.05555555555555555,autumn
+Lancôme,dark/deep autumn,0,0.0,autumn
+Lancôme,true/cool winter,0,0.0,winter
+Lancôme,bright/clear winter,1,0.05555555555555555,winter
+Lancôme,dark/deep winter,1,0.05555555555555555,winter
+Laura Mercier,light spring,10,0.5263157894736842,spring
+Laura Mercier,bright/clear spring,1,0.05263157894736842,spring
+Laura Mercier,true/warm spring,1,0.05263157894736842,spring
+Laura Mercier,light summer,0,0.0,summer
+Laura Mercier,soft summer,0,0.0,summer
+Laura Mercier,true/cool summer,0,0.0,summer
+Laura Mercier,soft autumn,0,0.0,autumn
+Laura Mercier,true/warm autumn,6,0.3157894736842105,autumn
+Laura Mercier,dark/deep autumn,1,0.05263157894736842,autumn
+Laura Mercier,true/cool winter,0,0.0,winter
+Laura Mercier,bright/clear winter,0,0.0,winter
+Laura Mercier,dark/deep winter,0,0.0,winter
+Live Tinted,light spring,0,0.0,spring
+Live Tinted,bright/clear spring,2,0.2,spring
+Live Tinted,true/warm spring,3,0.3,spring
+Live Tinted,light summer,0,0.0,summer
+Live Tinted,soft summer,0,0.0,summer
+Live Tinted,true/cool summer,0,0.0,summer
+Live Tinted,soft autumn,0,0.0,autumn
+Live Tinted,true/warm autumn,1,0.1,autumn
+Live Tinted,dark/deep autumn,4,0.4,autumn
+Live Tinted,true/cool winter,0,0.0,winter
+Live Tinted,bright/clear winter,0,0.0,winter
+Live Tinted,dark/deep winter,0,0.0,winter
+MAC,light spring,32,0.6530612244897959,spring
+MAC,bright/clear spring,2,0.04081632653061224,spring
+MAC,true/warm spring,3,0.061224489795918366,spring
+MAC,light summer,2,0.04081632653061224,summer
+MAC,soft summer,0,0.0,summer
+MAC,true/cool summer,0,0.0,summer
+MAC,soft autumn,1,0.02040816326530612,autumn
+MAC,true/warm autumn,4,0.08163265306122448,autumn
+MAC,dark/deep autumn,3,0.061224489795918366,autumn
+MAC,true/cool winter,2,0.04081632653061224,winter
+MAC,bright/clear winter,0,0.0,winter
+MAC,dark/deep winter,0,0.0,winter
+MILK MAKEUP,light spring,4,0.18181818181818182,spring
+MILK MAKEUP,bright/clear spring,5,0.22727272727272727,spring
+MILK MAKEUP,true/warm spring,3,0.13636363636363635,spring
+MILK MAKEUP,light summer,0,0.0,summer
+MILK MAKEUP,soft summer,0,0.0,summer
+MILK MAKEUP,true/cool summer,0,0.0,summer
+MILK MAKEUP,soft autumn,0,0.0,autumn
+MILK MAKEUP,true/warm autumn,1,0.045454545454545456,autumn
+MILK MAKEUP,dark/deep autumn,2,0.09090909090909091,autumn
+MILK MAKEUP,true/cool winter,0,0.0,winter
+MILK MAKEUP,bright/clear winter,6,0.2727272727272727,winter
+MILK MAKEUP,dark/deep winter,1,0.045454545454545456,winter
+Made By Mitchell,light spring,4,0.21052631578947367,spring
+Made By Mitchell,bright/clear spring,5,0.2631578947368421,spring
+Made By Mitchell,true/warm spring,3,0.15789473684210525,spring
+Made By Mitchell,light summer,3,0.15789473684210525,summer
+Made By Mitchell,soft summer,0,0.0,summer
+Made By Mitchell,true/cool summer,1,0.05263157894736842,summer
+Made By Mitchell,soft autumn,0,0.0,autumn
+Made By Mitchell,true/warm autumn,2,0.10526315789473684,autumn
+Made By Mitchell,dark/deep autumn,0,0.0,autumn
+Made By Mitchell,true/cool winter,0,0.0,winter
+Made By Mitchell,bright/clear winter,1,0.05263157894736842,winter
+Made By Mitchell,dark/deep winter,0,0.0,winter
+Maybelline,light spring,12,0.6666666666666666,spring
+Maybelline,bright/clear spring,2,0.1111111111111111,spring
+Maybelline,true/warm spring,2,0.1111111111111111,spring
+Maybelline,light summer,2,0.1111111111111111,summer
+Maybelline,soft summer,0,0.0,summer
+Maybelline,true/cool summer,0,0.0,summer
+Maybelline,soft autumn,0,0.0,autumn
+Maybelline,true/warm autumn,0,0.0,autumn
+Maybelline,dark/deep autumn,0,0.0,autumn
+Maybelline,true/cool winter,0,0.0,winter
+Maybelline,bright/clear winter,0,0.0,winter
+Maybelline,dark/deep winter,0,0.0,winter
+Milani,light spring,14,0.4375,spring
+Milani,bright/clear spring,1,0.03125,spring
+Milani,true/warm spring,0,0.0,spring
+Milani,light summer,1,0.03125,summer
+Milani,soft summer,2,0.0625,summer
+Milani,true/cool summer,0,0.0,summer
+Milani,soft autumn,2,0.0625,autumn
+Milani,true/warm autumn,7,0.21875,autumn
+Milani,dark/deep autumn,0,0.0,autumn
+Milani,true/cool winter,3,0.09375,winter
+Milani,bright/clear winter,1,0.03125,winter
+Milani,dark/deep winter,1,0.03125,winter
+Morphe,light spring,8,0.4444444444444444,spring
+Morphe,bright/clear spring,3,0.16666666666666666,spring
+Morphe,true/warm spring,1,0.05555555555555555,spring
+Morphe,light summer,4,0.2222222222222222,summer
+Morphe,soft summer,0,0.0,summer
+Morphe,true/cool summer,0,0.0,summer
+Morphe,soft autumn,0,0.0,autumn
+Morphe,true/warm autumn,1,0.05555555555555555,autumn
+Morphe,dark/deep autumn,0,0.0,autumn
+Morphe,true/cool winter,1,0.05555555555555555,winter
+Morphe,bright/clear winter,0,0.0,winter
+Morphe,dark/deep winter,0,0.0,winter
+NABLA,light spring,3,0.42857142857142855,spring
+NABLA,bright/clear spring,1,0.14285714285714285,spring
+NABLA,true/warm spring,0,0.0,spring
+NABLA,light summer,1,0.14285714285714285,summer
+NABLA,soft summer,0,0.0,summer
+NABLA,true/cool summer,0,0.0,summer
+NABLA,soft autumn,0,0.0,autumn
+NABLA,true/warm autumn,2,0.2857142857142857,autumn
+NABLA,dark/deep autumn,0,0.0,autumn
+NABLA,true/cool winter,0,0.0,winter
+NABLA,bright/clear winter,0,0.0,winter
+NABLA,dark/deep winter,0,0.0,winter
+NARS,light spring,13,0.5,spring
+NARS,bright/clear spring,3,0.11538461538461539,spring
+NARS,true/warm spring,2,0.07692307692307693,spring
+NARS,light summer,3,0.11538461538461539,summer
+NARS,soft summer,0,0.0,summer
+NARS,true/cool summer,0,0.0,summer
+NARS,soft autumn,0,0.0,autumn
+NARS,true/warm autumn,4,0.15384615384615385,autumn
+NARS,dark/deep autumn,0,0.0,autumn
+NARS,true/cool winter,0,0.0,winter
+NARS,bright/clear winter,0,0.0,winter
+NARS,dark/deep winter,1,0.038461538461538464,winter
+NATASHA DENONA,light spring,1,0.25,spring
+NATASHA DENONA,bright/clear spring,0,0.0,spring
+NATASHA DENONA,true/warm spring,0,0.0,spring
+NATASHA DENONA,light summer,0,0.0,summer
+NATASHA DENONA,soft summer,0,0.0,summer
+NATASHA DENONA,true/cool summer,0,0.0,summer
+NATASHA DENONA,soft autumn,0,0.0,autumn
+NATASHA DENONA,true/warm autumn,2,0.5,autumn
+NATASHA DENONA,dark/deep autumn,0,0.0,autumn
+NATASHA DENONA,true/cool winter,0,0.0,winter
+NATASHA DENONA,bright/clear winter,0,0.0,winter
+NATASHA DENONA,dark/deep winter,1,0.25,winter
+NUDESTIX,light spring,21,0.40384615384615385,spring
+NUDESTIX,bright/clear spring,6,0.11538461538461539,spring
+NUDESTIX,true/warm spring,1,0.019230769230769232,spring
+NUDESTIX,light summer,3,0.057692307692307696,summer
+NUDESTIX,soft summer,2,0.038461538461538464,summer
+NUDESTIX,true/cool summer,2,0.038461538461538464,summer
+NUDESTIX,soft autumn,1,0.019230769230769232,autumn
+NUDESTIX,true/warm autumn,9,0.17307692307692307,autumn
+NUDESTIX,dark/deep autumn,1,0.019230769230769232,autumn
+NUDESTIX,true/cool winter,5,0.09615384615384616,winter
+NUDESTIX,bright/clear winter,0,0.0,winter
+NUDESTIX,dark/deep winter,1,0.019230769230769232,winter
+NYX Professional Makeup,light spring,5,0.1724137931034483,spring
+NYX Professional Makeup,bright/clear spring,7,0.2413793103448276,spring
+NYX Professional Makeup,true/warm spring,2,0.06896551724137931,spring
+NYX Professional Makeup,light summer,4,0.13793103448275862,summer
+NYX Professional Makeup,soft summer,2,0.06896551724137931,summer
+NYX Professional Makeup,true/cool summer,1,0.034482758620689655,summer
+NYX Professional Makeup,soft autumn,0,0.0,autumn
+NYX Professional Makeup,true/warm autumn,2,0.06896551724137931,autumn
+NYX Professional Makeup,dark/deep autumn,1,0.034482758620689655,autumn
+NYX Professional Makeup,true/cool winter,1,0.034482758620689655,winter
+NYX Professional Makeup,bright/clear winter,4,0.13793103448275862,winter
+NYX Professional Makeup,dark/deep winter,0,0.0,winter
+Ofra Cosmetics,light spring,0,0.0,spring
+Ofra Cosmetics,bright/clear spring,0,0.0,spring
+Ofra Cosmetics,true/warm spring,1,0.3333333333333333,spring
+Ofra Cosmetics,light summer,1,0.3333333333333333,summer
+Ofra Cosmetics,soft summer,0,0.0,summer
+Ofra Cosmetics,true/cool summer,0,0.0,summer
+Ofra Cosmetics,soft autumn,0,0.0,autumn
+Ofra Cosmetics,true/warm autumn,1,0.3333333333333333,autumn
+Ofra Cosmetics,dark/deep autumn,0,0.0,autumn
+Ofra Cosmetics,true/cool winter,0,0.0,winter
+Ofra Cosmetics,bright/clear winter,0,0.0,winter
+Ofra Cosmetics,dark/deep winter,0,0.0,winter
+PAT McGRATH LABS,light spring,3,0.3,spring
+PAT McGRATH LABS,bright/clear spring,2,0.2,spring
+PAT McGRATH LABS,true/warm spring,1,0.1,spring
+PAT McGRATH LABS,light summer,0,0.0,summer
+PAT McGRATH LABS,soft summer,1,0.1,summer
+PAT McGRATH LABS,true/cool summer,0,0.0,summer
+PAT McGRATH LABS,soft autumn,0,0.0,autumn
+PAT McGRATH LABS,true/warm autumn,0,0.0,autumn
+PAT McGRATH LABS,dark/deep autumn,0,0.0,autumn
+PAT McGRATH LABS,true/cool winter,2,0.2,winter
+PAT McGRATH LABS,bright/clear winter,1,0.1,winter
+PAT McGRATH LABS,dark/deep winter,0,0.0,winter
+Pacifica,light spring,2,1.0,spring
+Pacifica,bright/clear spring,0,0.0,spring
+Pacifica,true/warm spring,0,0.0,spring
+Pacifica,light summer,0,0.0,summer
+Pacifica,soft summer,0,0.0,summer
+Pacifica,true/cool summer,0,0.0,summer
+Pacifica,soft autumn,0,0.0,autumn
+Pacifica,true/warm autumn,0,0.0,autumn
+Pacifica,dark/deep autumn,0,0.0,autumn
+Pacifica,true/cool winter,0,0.0,winter
+Pacifica,bright/clear winter,0,0.0,winter
+Pacifica,dark/deep winter,0,0.0,winter
+Persona,light spring,2,0.15384615384615385,spring
+Persona,bright/clear spring,2,0.15384615384615385,spring
+Persona,true/warm spring,2,0.15384615384615385,spring
+Persona,light summer,3,0.23076923076923078,summer
+Persona,soft summer,1,0.07692307692307693,summer
+Persona,true/cool summer,0,0.0,summer
+Persona,soft autumn,1,0.07692307692307693,autumn
+Persona,true/warm autumn,1,0.07692307692307693,autumn
+Persona,dark/deep autumn,0,0.0,autumn
+Persona,true/cool winter,1,0.07692307692307693,winter
+Persona,bright/clear winter,0,0.0,winter
+Persona,dark/deep winter,0,0.0,winter
+Peter Thomas Roth,light spring,1,0.3333333333333333,spring
+Peter Thomas Roth,bright/clear spring,0,0.0,spring
+Peter Thomas Roth,true/warm spring,1,0.3333333333333333,spring
+Peter Thomas Roth,light summer,0,0.0,summer
+Peter Thomas Roth,soft summer,0,0.0,summer
+Peter Thomas Roth,true/cool summer,0,0.0,summer
+Peter Thomas Roth,soft autumn,0,0.0,autumn
+Peter Thomas Roth,true/warm autumn,1,0.3333333333333333,autumn
+Peter Thomas Roth,dark/deep autumn,0,0.0,autumn
+Peter Thomas Roth,true/cool winter,0,0.0,winter
+Peter Thomas Roth,bright/clear winter,0,0.0,winter
+Peter Thomas Roth,dark/deep winter,0,0.0,winter
+Physicians Formula,light spring,3,0.5,spring
+Physicians Formula,bright/clear spring,1,0.16666666666666666,spring
+Physicians Formula,true/warm spring,1,0.16666666666666666,spring
+Physicians Formula,light summer,0,0.0,summer
+Physicians Formula,soft summer,0,0.0,summer
+Physicians Formula,true/cool summer,0,0.0,summer
+Physicians Formula,soft autumn,0,0.0,autumn
+Physicians Formula,true/warm autumn,1,0.16666666666666666,autumn
+Physicians Formula,dark/deep autumn,0,0.0,autumn
+Physicians Formula,true/cool winter,0,0.0,winter
+Physicians Formula,bright/clear winter,0,0.0,winter
+Physicians Formula,dark/deep winter,0,0.0,winter
+Pixi,light spring,2,0.2,spring
+Pixi,bright/clear spring,1,0.1,spring
+Pixi,true/warm spring,0,0.0,spring
+Pixi,light summer,2,0.2,summer
+Pixi,soft summer,0,0.0,summer
+Pixi,true/cool summer,0,0.0,summer
+Pixi,soft autumn,1,0.1,autumn
+Pixi,true/warm autumn,0,0.0,autumn
+Pixi,dark/deep autumn,0,0.0,autumn
+Pixi,true/cool winter,2,0.2,winter
+Pixi,bright/clear winter,2,0.2,winter
+Pixi,dark/deep winter,0,0.0,winter
+Polite Society,light spring,4,0.5,spring
+Polite Society,bright/clear spring,0,0.0,spring
+Polite Society,true/warm spring,0,0.0,spring
+Polite Society,light summer,3,0.375,summer
+Polite Society,soft summer,0,0.0,summer
+Polite Society,true/cool summer,0,0.0,summer
+Polite Society,soft autumn,0,0.0,autumn
+Polite Society,true/warm autumn,0,0.0,autumn
+Polite Society,dark/deep autumn,0,0.0,autumn
+Polite Society,true/cool winter,0,0.0,winter
+Polite Society,bright/clear winter,1,0.125,winter
+Polite Society,dark/deep winter,0,0.0,winter
+PÜR,light spring,5,0.625,spring
+PÜR,bright/clear spring,0,0.0,spring
+PÜR,true/warm spring,0,0.0,spring
+PÜR,light summer,0,0.0,summer
+PÜR,soft summer,0,0.0,summer
+PÜR,true/cool summer,0,0.0,summer
+PÜR,soft autumn,1,0.125,autumn
+PÜR,true/warm autumn,1,0.125,autumn
+PÜR,dark/deep autumn,1,0.125,autumn
+PÜR,true/cool winter,0,0.0,winter
+PÜR,bright/clear winter,0,0.0,winter
+PÜR,dark/deep winter,0,0.0,winter
+RMS Beauty,light spring,11,0.6111111111111112,spring
+RMS Beauty,bright/clear spring,2,0.1111111111111111,spring
+RMS Beauty,true/warm spring,2,0.1111111111111111,spring
+RMS Beauty,light summer,1,0.05555555555555555,summer
+RMS Beauty,soft summer,0,0.0,summer
+RMS Beauty,true/cool summer,0,0.0,summer
+RMS Beauty,soft autumn,1,0.05555555555555555,autumn
+RMS Beauty,true/warm autumn,1,0.05555555555555555,autumn
+RMS Beauty,dark/deep autumn,0,0.0,autumn
+RMS Beauty,true/cool winter,0,0.0,winter
+RMS Beauty,bright/clear winter,0,0.0,winter
+RMS Beauty,dark/deep winter,0,0.0,winter
+Rabanne,light spring,0,0.0,spring
+Rabanne,bright/clear spring,2,0.4,spring
+Rabanne,true/warm spring,1,0.2,spring
+Rabanne,light summer,0,0.0,summer
+Rabanne,soft summer,0,0.0,summer
+Rabanne,true/cool summer,0,0.0,summer
+Rabanne,soft autumn,0,0.0,autumn
+Rabanne,true/warm autumn,1,0.2,autumn
+Rabanne,dark/deep autumn,0,0.0,autumn
+Rabanne,true/cool winter,0,0.0,winter
+Rabanne,bright/clear winter,1,0.2,winter
+Rabanne,dark/deep winter,0,0.0,winter
+Revlon,light spring,4,0.4444444444444444,spring
+Revlon,bright/clear spring,1,0.1111111111111111,spring
+Revlon,true/warm spring,1,0.1111111111111111,spring
+Revlon,light summer,2,0.2222222222222222,summer
+Revlon,soft summer,0,0.0,summer
+Revlon,true/cool summer,0,0.0,summer
+Revlon,soft autumn,0,0.0,autumn
+Revlon,true/warm autumn,1,0.1111111111111111,autumn
+Revlon,dark/deep autumn,0,0.0,autumn
+Revlon,true/cool winter,0,0.0,winter
+Revlon,bright/clear winter,0,0.0,winter
+Revlon,dark/deep winter,0,0.0,winter
+Revolution Beauty,light spring,20,0.5,spring
+Revolution Beauty,bright/clear spring,5,0.125,spring
+Revolution Beauty,true/warm spring,3,0.075,spring
+Revolution Beauty,light summer,8,0.2,summer
+Revolution Beauty,soft summer,0,0.0,summer
+Revolution Beauty,true/cool summer,0,0.0,summer
+Revolution Beauty,soft autumn,0,0.0,autumn
+Revolution Beauty,true/warm autumn,1,0.025,autumn
+Revolution Beauty,dark/deep autumn,0,0.0,autumn
+Revolution Beauty,true/cool winter,1,0.025,winter
+Revolution Beauty,bright/clear winter,2,0.05,winter
+Revolution Beauty,dark/deep winter,0,0.0,winter
+Smashbox,light spring,5,0.5,spring
+Smashbox,bright/clear spring,1,0.1,spring
+Smashbox,true/warm spring,2,0.2,spring
+Smashbox,light summer,0,0.0,summer
+Smashbox,soft summer,0,0.0,summer
+Smashbox,true/cool summer,0,0.0,summer
+Smashbox,soft autumn,0,0.0,autumn
+Smashbox,true/warm autumn,1,0.1,autumn
+Smashbox,dark/deep autumn,0,0.0,autumn
+Smashbox,true/cool winter,0,0.0,winter
+Smashbox,bright/clear winter,1,0.1,winter
+Smashbox,dark/deep winter,0,0.0,winter
+Stila,light spring,7,0.4666666666666667,spring
+Stila,bright/clear spring,2,0.13333333333333333,spring
+Stila,true/warm spring,4,0.26666666666666666,spring
+Stila,light summer,0,0.0,summer
+Stila,soft summer,0,0.0,summer
+Stila,true/cool summer,0,0.0,summer
+Stila,soft autumn,0,0.0,autumn
+Stila,true/warm autumn,0,0.0,autumn
+Stila,dark/deep autumn,1,0.06666666666666667,autumn
+Stila,true/cool winter,0,0.0,winter
+Stila,bright/clear winter,0,0.0,winter
+Stila,dark/deep winter,1,0.06666666666666667,winter
+Tarte,light spring,25,0.46296296296296297,spring
+Tarte,bright/clear spring,3,0.05555555555555555,spring
+Tarte,true/warm spring,8,0.14814814814814814,spring
+Tarte,light summer,0,0.0,summer
+Tarte,soft summer,1,0.018518518518518517,summer
+Tarte,true/cool summer,0,0.0,summer
+Tarte,soft autumn,1,0.018518518518518517,autumn
+Tarte,true/warm autumn,7,0.12962962962962962,autumn
+Tarte,dark/deep autumn,0,0.0,autumn
+Tarte,true/cool winter,4,0.07407407407407407,winter
+Tarte,bright/clear winter,4,0.07407407407407407,winter
+Tarte,dark/deep winter,1,0.018518518518518517,winter
+Too Faced,light spring,3,0.1875,spring
+Too Faced,bright/clear spring,1,0.0625,spring
+Too Faced,true/warm spring,3,0.1875,spring
+Too Faced,light summer,4,0.25,summer
+Too Faced,soft summer,1,0.0625,summer
+Too Faced,true/cool summer,0,0.0,summer
+Too Faced,soft autumn,0,0.0,autumn
+Too Faced,true/warm autumn,0,0.0,autumn
+Too Faced,dark/deep autumn,1,0.0625,autumn
+Too Faced,true/cool winter,1,0.0625,winter
+Too Faced,bright/clear winter,1,0.0625,winter
+Too Faced,dark/deep winter,1,0.0625,winter
+ULTA Beauty Collection,light spring,26,0.5777777777777777,spring
+ULTA Beauty Collection,bright/clear spring,5,0.1111111111111111,spring
+ULTA Beauty Collection,true/warm spring,3,0.06666666666666667,spring
+ULTA Beauty Collection,light summer,4,0.08888888888888889,summer
+ULTA Beauty Collection,soft summer,1,0.022222222222222223,summer
+ULTA Beauty Collection,true/cool summer,1,0.022222222222222223,summer
+ULTA Beauty Collection,soft autumn,1,0.022222222222222223,autumn
+ULTA Beauty Collection,true/warm autumn,2,0.044444444444444446,autumn
+ULTA Beauty Collection,dark/deep autumn,1,0.022222222222222223,autumn
+ULTA Beauty Collection,true/cool winter,1,0.022222222222222223,winter
+ULTA Beauty Collection,bright/clear winter,0,0.0,winter
+ULTA Beauty Collection,dark/deep winter,0,0.0,winter
+Urban Decay Cosmetics,light spring,2,0.2857142857142857,spring
+Urban Decay Cosmetics,bright/clear spring,2,0.2857142857142857,spring
+Urban Decay Cosmetics,true/warm spring,1,0.14285714285714285,spring
+Urban Decay Cosmetics,light summer,1,0.14285714285714285,summer
+Urban Decay Cosmetics,soft summer,0,0.0,summer
+Urban Decay Cosmetics,true/cool summer,0,0.0,summer
+Urban Decay Cosmetics,soft autumn,0,0.0,autumn
+Urban Decay Cosmetics,true/warm autumn,0,0.0,autumn
+Urban Decay Cosmetics,dark/deep autumn,0,0.0,autumn
+Urban Decay Cosmetics,true/cool winter,0,0.0,winter
+Urban Decay Cosmetics,bright/clear winter,1,0.14285714285714285,winter
+Urban Decay Cosmetics,dark/deep winter,0,0.0,winter
+WYN BEAUTY,light spring,2,0.25,spring
+WYN BEAUTY,bright/clear spring,2,0.25,spring
+WYN BEAUTY,true/warm spring,1,0.125,spring
+WYN BEAUTY,light summer,0,0.0,summer
+WYN BEAUTY,soft summer,0,0.0,summer
+WYN BEAUTY,true/cool summer,0,0.0,summer
+WYN BEAUTY,soft autumn,1,0.125,autumn
+WYN BEAUTY,true/warm autumn,0,0.0,autumn
+WYN BEAUTY,dark/deep autumn,0,0.0,autumn
+WYN BEAUTY,true/cool winter,1,0.125,winter
+WYN BEAUTY,bright/clear winter,1,0.125,winter
+WYN BEAUTY,dark/deep winter,0,0.0,winter
+Wet n Wild,light spring,5,0.5,spring
+Wet n Wild,bright/clear spring,2,0.2,spring
+Wet n Wild,true/warm spring,0,0.0,spring
+Wet n Wild,light summer,1,0.1,summer
+Wet n Wild,soft summer,0,0.0,summer
+Wet n Wild,true/cool summer,0,0.0,summer
+Wet n Wild,soft autumn,0,0.0,autumn
+Wet n Wild,true/warm autumn,1,0.1,autumn
+Wet n Wild,dark/deep autumn,0,0.0,autumn
+Wet n Wild,true/cool winter,1,0.1,winter
+Wet n Wild,bright/clear winter,0,0.0,winter
+Wet n Wild,dark/deep winter,0,0.0,winter
+Winky Lux,light spring,1,0.125,spring
+Winky Lux,bright/clear spring,4,0.5,spring
+Winky Lux,true/warm spring,2,0.25,spring
+Winky Lux,light summer,1,0.125,summer
+Winky Lux,soft summer,0,0.0,summer
+Winky Lux,true/cool summer,0,0.0,summer
+Winky Lux,soft autumn,0,0.0,autumn
+Winky Lux,true/warm autumn,0,0.0,autumn
+Winky Lux,dark/deep autumn,0,0.0,autumn
+Winky Lux,true/cool winter,0,0.0,winter
+Winky Lux,bright/clear winter,0,0.0,winter
+Winky Lux,dark/deep winter,0,0.0,winter
+about-face,light spring,3,0.16666666666666666,spring
+about-face,bright/clear spring,3,0.16666666666666666,spring
+about-face,true/warm spring,2,0.1111111111111111,spring
+about-face,light summer,1,0.05555555555555555,summer
+about-face,soft summer,4,0.2222222222222222,summer
+about-face,true/cool summer,0,0.0,summer
+about-face,soft autumn,0,0.0,autumn
+about-face,true/warm autumn,0,0.0,autumn
+about-face,dark/deep autumn,2,0.1111111111111111,autumn
+about-face,true/cool winter,2,0.1111111111111111,winter
+about-face,bright/clear winter,1,0.05555555555555555,winter
+about-face,dark/deep winter,0,0.0,winter
+af94,light spring,0,0.0,spring
+af94,bright/clear spring,4,0.6666666666666666,spring
+af94,true/warm spring,1,0.16666666666666666,spring
+af94,light summer,0,0.0,summer
+af94,soft summer,0,0.0,summer
+af94,true/cool summer,0,0.0,summer
+af94,soft autumn,0,0.0,autumn
+af94,true/warm autumn,0,0.0,autumn
+af94,dark/deep autumn,0,0.0,autumn
+af94,true/cool winter,0,0.0,winter
+af94,bright/clear winter,1,0.16666666666666666,winter
+af94,dark/deep winter,0,0.0,winter
+bareMinerals,light spring,26,0.7647058823529411,spring
+bareMinerals,bright/clear spring,1,0.029411764705882353,spring
+bareMinerals,true/warm spring,1,0.029411764705882353,spring
+bareMinerals,light summer,3,0.08823529411764706,summer
+bareMinerals,soft summer,0,0.0,summer
+bareMinerals,true/cool summer,0,0.0,summer
+bareMinerals,soft autumn,0,0.0,autumn
+bareMinerals,true/warm autumn,3,0.08823529411764706,autumn
+bareMinerals,dark/deep autumn,0,0.0,autumn
+bareMinerals,true/cool winter,0,0.0,winter
+bareMinerals,bright/clear winter,0,0.0,winter
+bareMinerals,dark/deep winter,0,0.0,winter
+e.l.f. Cosmetics,light spring,13,0.41935483870967744,spring
+e.l.f. Cosmetics,bright/clear spring,3,0.0967741935483871,spring
+e.l.f. Cosmetics,true/warm spring,2,0.06451612903225806,spring
+e.l.f. Cosmetics,light summer,2,0.06451612903225806,summer
+e.l.f. Cosmetics,soft summer,0,0.0,summer
+e.l.f. Cosmetics,true/cool summer,0,0.0,summer
+e.l.f. Cosmetics,soft autumn,0,0.0,autumn
+e.l.f. Cosmetics,true/warm autumn,6,0.1935483870967742,autumn
+e.l.f. Cosmetics,dark/deep autumn,2,0.06451612903225806,autumn
+e.l.f. Cosmetics,true/cool winter,2,0.06451612903225806,winter
+e.l.f. Cosmetics,bright/clear winter,1,0.03225806451612903,winter
+e.l.f. Cosmetics,dark/deep winter,0,0.0,winter
+florence by mills,light spring,1,0.25,spring
+florence by mills,bright/clear spring,2,0.5,spring
+florence by mills,true/warm spring,0,0.0,spring
+florence by mills,light summer,0,0.0,summer
+florence by mills,soft summer,0,0.0,summer
+florence by mills,true/cool summer,1,0.25,summer
+florence by mills,soft autumn,0,0.0,autumn
+florence by mills,true/warm autumn,0,0.0,autumn
+florence by mills,dark/deep autumn,0,0.0,autumn
+florence by mills,true/cool winter,0,0.0,winter
+florence by mills,bright/clear winter,0,0.0,winter
+florence by mills,dark/deep winter,0,0.0,winter
+fwee,light spring,14,0.2545454545454545,spring
+fwee,bright/clear spring,3,0.05454545454545454,spring
+fwee,true/warm spring,8,0.14545454545454545,spring
+fwee,light summer,9,0.16363636363636364,summer
+fwee,soft summer,1,0.01818181818181818,summer
+fwee,true/cool summer,3,0.05454545454545454,summer
+fwee,soft autumn,0,0.0,autumn
+fwee,true/warm autumn,8,0.14545454545454545,autumn
+fwee,dark/deep autumn,0,0.0,autumn
+fwee,true/cool winter,4,0.07272727272727272,winter
+fwee,bright/clear winter,4,0.07272727272727272,winter
+fwee,dark/deep winter,1,0.01818181818181818,winter
+jane iredale,light spring,11,0.7857142857142857,spring
+jane iredale,bright/clear spring,3,0.21428571428571427,spring
+jane iredale,true/warm spring,0,0.0,spring
+jane iredale,light summer,0,0.0,summer
+jane iredale,soft summer,0,0.0,summer
+jane iredale,true/cool summer,0,0.0,summer
+jane iredale,soft autumn,0,0.0,autumn
+jane iredale,true/warm autumn,0,0.0,autumn
+jane iredale,dark/deep autumn,0,0.0,autumn
+jane iredale,true/cool winter,0,0.0,winter
+jane iredale,bright/clear winter,0,0.0,winter
+jane iredale,dark/deep winter,0,0.0,winter
+r.e.m. beauty,light spring,2,0.125,spring
+r.e.m. beauty,bright/clear spring,1,0.0625,spring
+r.e.m. beauty,true/warm spring,1,0.0625,spring
+r.e.m. beauty,light summer,0,0.0,summer
+r.e.m. beauty,soft summer,2,0.125,summer
+r.e.m. beauty,true/cool summer,0,0.0,summer
+r.e.m. beauty,soft autumn,0,0.0,autumn
+r.e.m. beauty,true/warm autumn,5,0.3125,autumn
+r.e.m. beauty,dark/deep autumn,1,0.0625,autumn
+r.e.m. beauty,true/cool winter,1,0.0625,winter
+r.e.m. beauty,bright/clear winter,3,0.1875,winter
+r.e.m. beauty,dark/deep winter,0,0.0,winter
+rom&nd,light spring,1,0.16666666666666666,spring
+rom&nd,bright/clear spring,1,0.16666666666666666,spring
+rom&nd,true/warm spring,0,0.0,spring
+rom&nd,light summer,1,0.16666666666666666,summer
+rom&nd,soft summer,1,0.16666666666666666,summer
+rom&nd,true/cool summer,0,0.0,summer
+rom&nd,soft autumn,0,0.0,autumn
+rom&nd,true/warm autumn,1,0.16666666666666666,autumn
+rom&nd,dark/deep autumn,0,0.0,autumn
+rom&nd,true/cool winter,0,0.0,winter
+rom&nd,bright/clear winter,1,0.16666666666666666,winter
+rom&nd,dark/deep winter,0,0.0,winter
